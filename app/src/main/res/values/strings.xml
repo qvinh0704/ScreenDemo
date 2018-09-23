@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScreenDemo</string>
+    <string name="wallet_title">Wallet</string>
+    <string name="offer_title">Offer</string>
+    <string name="scan_title">Scan</string>
+    <string name="pay_title">Pay</string>
+    <string name="profile_title">Profile</string>
+    <string name="hint_search">Search</string>
+    <string name="reviews_food_info">%1$d reviews</string>
+    <string name="review_food_info">%1$d reviews</string>
+    <string name="item_review">%1$s . %2$s $$$</string>
+</resources>

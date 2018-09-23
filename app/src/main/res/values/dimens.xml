@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="item_food_info_height_image">200dp</dimen>
+    <dimen name="item_food_info_margin_item">10dp</dimen>
+    <dimen name="item_food_info_padding_item">12dp</dimen>
+    <dimen name="activity_home_padding_item_content">5dp</dimen>
+    <dimen name="icon_size">32dp</dimen>
+    <dimen name="icon_size_small">16dp</dimen>
+    <dimen name="activity_home_padding_edt_search">1dp</dimen>
+    <dimen name="item_list_height">50dp</dimen>
+    <dimen name="item_food_info_header">16sp</dimen>
+    <dimen name="item_filter_padding">5dp</dimen>
+</resources>
